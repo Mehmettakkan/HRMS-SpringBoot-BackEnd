@@ -1,0 +1,9 @@
+package com.northwind.hrms.dataAccess.abstracts;
+
+import com.northwind.hrms.entities.concretes.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface UserDao extends JpaRepository<User, Integer> {//playground için yazıldı
+}
