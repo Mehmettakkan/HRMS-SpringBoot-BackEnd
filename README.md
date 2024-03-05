@@ -58,3 +58,7 @@ HRMS (Human Resource Management System - İnsan Kaynakları Yönetim Sistemi), i
 - İş Arayanlar: Sistemde kayıtlı olan iş arayan kullanıcıları temsil eder.
 - İşverenler: Sistemde kayıtlı olan işveren kullanıcıları temsil eder.
 - CV: İş arayanların özgeçmiş bilgilerini tutar.
+
+  
+<img width="1440" alt="HRMS-Swagger" src="https://github.com/Mehmettakkan/HRMS-SpringBoot-BackEnd/assets/114080733/5bc262d3-b621-4fce-b2cb-03c6ce05469f">
+
